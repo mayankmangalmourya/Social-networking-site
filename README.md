@@ -6,7 +6,7 @@ required softwares; MySQL Workbench, Node.JS
 
 ## Steps to run
 ### Open the terminal/command prompt and paste these commands
-1. git clone https://github.com/satyamgupta0/social_media_website.git
+1. git clone https://github.com/mayankmangalmourya/social_media_website.git
 2. cd social_media_website/
 3. npm init
 4. npm i
@@ -17,5 +17,5 @@ required softwares; MySQL Workbench, Node.JS
 ## You are all set to enjoy, open your browser and head-over to http://localhost:8000/
 
 
-Please feel free to reachout at 202051169@iiitvadodara.ac.in, in case, if you have any suggestions or facing problems in setting up the project.
+Please feel free to reachout at 202051116@iiitvadodara.ac.in, in case, if you have any suggestions or facing problems in setting up the project.
 ## Thank you
